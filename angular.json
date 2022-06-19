@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "app-Tareas"
+  "defaultProject": "app-Tareas",
+  "cli": {
+    "analytics": false
+  }
 }

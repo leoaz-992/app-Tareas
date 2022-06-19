@@ -8,7 +8,7 @@ export const TASKS: Task[]=[
     },
     {
         id:2,
-        text:"sacr a los perros a pasear",
+        text:"sacar a los perros a pasear",
         day: "9/7/2022 00:00",
         reminder:false
     },
