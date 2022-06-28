@@ -23,6 +23,12 @@
       "text": "completar porfolio",
       "day": "12/9/2022 00:00",
       "reminder": false
+    },
+    {
+      "text": "cenar ",
+      "day": "jueves 22hs",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
